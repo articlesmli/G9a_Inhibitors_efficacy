@@ -1,6 +1,6 @@
 # Targeting Neurodegeneration: Three Machine Learning Methods for G9a Inhibitors Discovery Using PubChem and Scikit-learn
 
-doi: 
+Doi: 
 
 Raw data:
 - pubchem_G9s.csv: downloaded from https://pubchem.ncbi.nlm.nih.gov/bioassay/504332 
