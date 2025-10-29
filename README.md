@@ -1,10 +1,13 @@
 # Targeting Neurodegeneration: Three Machine Learning Methods for G9a Inhibitors Discovery Using PubChem and Scikit-learn
 
-DOI: 10.1007/s10822-025-00642-z
-
-https://link.springer.com/article/10.1007/s10822-025-00642-z#citeas
+https://doi.org/10.1007/s10822-025-00642-z
 
 Raw data:
-- pubchem_G9s.csv: downloaded from https://pubchem.ncbi.nlm.nih.gov/bioassay/504332 
-- pubchem_solubility.csv: downloaded from https://pubchem.ncbi.nlm.nih.gov/bioassay/1996
+- PubChem AID 504332 bioassay "qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a", https://pubchem.ncbi.nlm.nih.gov/bioassay/504332
+- PubChem AID 1996, https://pubchem.ncbi.nlm.nih.gov/bioassay/1996
+
+Datasets: 
+- Dataset_1: https://huggingface.co/datasets/ivanovaml/G9a_onlyInhibitors_targetEfficacy_basic
+- Dataset_3: https://huggingface.co/datasets/ivanovaml/G9a_onlyInhibitors_targetEfficacy_withAqueousSolubility
+- Dataset_5: https://huggingface.co/datasets/ivanovaml/G9a_onlyInhibitors_targetEfficacy_basic 
   
